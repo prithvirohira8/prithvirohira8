@@ -1,0 +1,44 @@
+baseURL: ''
+languageCode: en-us
+title: Prithvi Rohira
+theme: PaperMod
+
+menu:
+  main:
+  - name: Projects
+    pageRef: /Projects
+    weight: 10
+  - name: Experience
+    pageRef: /Experience
+    weight: 20
+  - name: Resume
+    url: https://drive.google.com/file/d/17G4z4paPP_EQsoW-Hyv1pAgGq2ueEI--/view?usp=sharing
+    weight: 30
+
+params:
+  env: production
+  defaultTheme: auto
+  profileMode:
+        enabled: true
+        title: Hi There! # optional default will be site title
+        subtitle: "I'm  **Prithvi**, a passionate **Software Developer**, with a keen interest of developing cost effective software aimed at solving real world problems. I also love travelling."
+        imageUrl: "img/profile_photo2.jpg" # optional
+        imageTitle: "Prithvi" # optional
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+
+  # homeInfoParams:
+  #   Title: Hi There!
+  #   Content: I'm  **Prithvi**, a passionate **Software Developer** and build projects aimed at providing innovative solutions towards real world problems. I am well versed in **Java** and **Javascript** and majorly use the **MERN** stack for software projects,  but I’m always eager to expand my skillset by learning new programming languages and experimenting with cutting-edge technologies.
+
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/prithvi-rohira-87219b1b5/
+    - name: github
+      url: https://github.com/prithvirohira8
+    - name: twitter
+      url: https://twitter.com/Prithvi_048
+    - name: email
+      url: https://mail.google.com/mail/?view=cm&fs=1&to=prohira@cs.stonybrook.edu
+    # - name: spotify
+    #   url: https://open.spotify.com/user/0qitotsixb8xkw4v2s98cc6bc
