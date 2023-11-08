@@ -16,13 +16,16 @@ During undergraduate years, I had the privilege of securing internships at three
 
 **Duration**: 3 Months (April 2023 - June 2023)
 
-**Tech Stacks Used**: TypeScript, Node JS
+**Tech Stacks Used**: TypeScript, Node JS, Web Sockets, AWS
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
 
 **Key Tasks:**
-- Built **40+ routes** in Node JS for the organization’s ongoing PentaFecta project.
-- Wrote scripts in **TypesScript** to formulate the backend logic covering the scoring algorithms of 5 different casino games. 
+- Assisted in developing the back end infrastructure of 5 casino games by writing **TypeScript** scripts formulating the game logic.
+- Constructed **Web Socket** API’s to capture and record rapid user responses in the gaming system, ensuring a seamless interaction between the user and the system.
+- Optimized network bandwidth and response time by minimizing the frequency of API calls in Node.js and refining database queries, leading to a **60%** reduction in bandwidth usage and a **50%** improvement in response times, further enhancing system performance.
+- Formulated APIs in **Node.js** to validate the data fetched and establish storage pathways storing images in the **AWS S3 Bucket**.
+- Collaborated with the frontend team and contributed to the Homepage design in **React.js**, ensuring a user-friendly, responsive, and visually engaging front-end experience aligning with project goals.
 
 &nbsp;
 
@@ -31,7 +34,7 @@ During undergraduate years, I had the privilege of securing internships at three
 
 **Duration**: 3 Months (July 2022 - Septmeber 2022)
 
-**Tech Stacks Used**: SpringBoot, JUnit, Mockito, Docker, Heroku
+**Tech Stacks Used**: SpringBoot, JUnit, Mockito, Docker, AWS
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-59ff8b) 
 ![JUnit](https://img.shields.io/badge/JUnit-00ab3c) 
@@ -40,9 +43,10 @@ During undergraduate years, I had the privilege of securing internships at three
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
 
 **Key Tasks:**
-- Developed API’s in **Spring Boot** to process patient details in the FHIR format and store in **Mongo DB**
-- Formulated **20+ unit tests** for the Spring Boot code using **Junit** & **Mockito** and resolved the existing issues with the code.
-- Composed and published **Docker** images and containers for various API’s and hosted the containers on **Heroku**. 
+- Developed API’s in **Spring Boot** to process patient medical details, ensuring the creation of the appropriate **FHIR** and **EHR** formats, to store in the **MongoDB** and **PostgreSQL** databases respectively.
+- Contributed to the migration of the platform from a monolithic architecture to a microservices-based model, including the creation of **Docker** images and containers for the APIs and successfully hosted the Docker containers on **AWS EC2** instances, ensuring the seamless deployment of the microservice architecture.
+- Resolved the existing issues in the code after formulating over **30** unit tests in **JUnit** and **Mockito** and testing the code.
+- Documented the API’s in **Swagger** for future reference and maintenance.
 
 &nbsp;
 
@@ -51,12 +55,12 @@ During undergraduate years, I had the privilege of securing internships at three
 
 **Duration**: 3 Months (December 2021 - January 2022)
 
-**Tech Stacks Used**: HTML, CSS, JavaScript, Chart JS, Node JS, Mongo DB
+**Tech Stacks Used**: HTML, CSS, JavaScript, Chart JS,React JS, Node JS, Mongo DB
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
 **Key Tasks:**
-- Customized the frontend of the organization’s meet platform in **React JS** based on the required changes proposed.
-- Incorporated an automated scheduling system for trial classes in the existing **Node JS** code base of the organization, reducing manual workload by **10 hours per week** required previously to schedule classes.
-- Created an analytics dashboard using **Node**, **Express JS**, **Mongo DB** & **Chart JS** displaying key statistics regarding trial classes.
+- Incorporated an automated scheduling system for trial classes in the existing **Node.js** code base of the organization, reducing manual workload by **10** hours per week required previously to schedule classes.
+- Revamped the front end of the organization’s courses platform in **React.js** based on the required changes proposed.
+- Built an analytics dashboard using **Node.js**, **Express JS**, **MongoDB** & **Chart.js** displaying key statistics regarding trial classes.
