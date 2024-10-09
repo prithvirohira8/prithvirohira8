@@ -9,7 +9,7 @@ menu:
     pageRef: /Projects
     weight: 10
   - name: Resume
-    url: https://drive.google.com/file/d/17G4z4paPP_EQsoW-Hyv1pAgGq2ueEI--/view?usp=sharing
+    url: https://drive.google.com/file/d/1uTRUDmS_G2rrPRWajmDDr06t0Nfm2CS1/view?usp=drive_link
     weight: 20
 
 params:
