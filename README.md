@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prithvi Rohira</h1>
-<h3 align="center">A Software Developer.</h3>
+<h1 align="center">Hi, I'm Prithvi</h1>
+<h3 align="center">A Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithvirohira8&label=Profile%20views&color=0e75b6&style=flat" alt="prithvirohira8" /> </p>
 
-- 🔭 I’m currently working on pursuing my Master's degree in Computer Science at Stony Brook University, New York
-- I'm open to collaborate and contribute to open source projects in the Software Systems, Artificial Intelligence, Machine Learning and Data Engineering
-- 📫 How to reach me **prohira@cs.stonybrook.edu**
+- I'm currently building infrastructure to support AI Agents at Airrived.ai.
+- I'm enthusiastic about working with Distributed Systems, Operating Systems, Databases and Artificial Intelligence.
+- How to reach me **prithvirohira8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
